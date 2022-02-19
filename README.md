@@ -11,3 +11,7 @@ create a .env file
 type this commands
 => npm install
 => node app
+
+ 
+ check out =>
+ https://weather-app-08.herokuapp.com/
